@@ -7,13 +7,12 @@ Here, I am using python (pandas, matplotlib, and scikit-learn) packages to predi
 
 The solution strategy is presented in three parts: 
 
-[Read more words!](docs/more_words.md)
+### 1- Part1: [Exploration of training dataset](Titanic/Part1.ipnb)
+### 2- Part2: [Replacing missing values and adding new features](Titanic/Part2.ipnb)
+### 3- Part3: [Model predictions](Titanic/Part3.ipnb)
 
-## 1- Part1: [Exploration of training dataset!](./Part1.ipnb)
-## 2- Part2: [Replacing missing values and adding new features!](./Part2.ipnb)
-## 3- Part3: [Model predictions!](./Part3.ipnb)
 
-## Requirements:
+### Requirements:
 Python packages: 
 - pandas
 - matplotlib
